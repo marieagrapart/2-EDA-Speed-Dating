@@ -1,6 +1,6 @@
 # 2-Speed-Dating-EDA
 
-### Video: **
+### Video: *https://share.vidyard.com/watch/6CDzuBVAEMNxLBrczLZ7wk?*
 
 It'a a student project with the following gloal : 
 
