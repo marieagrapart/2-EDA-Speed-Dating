@@ -10,15 +10,12 @@ It'a a student project with the following gloal :
 
 You will need : 
 - pip install -r requirements.txt 
-- the dataset *Walmart_Store_sales.csv*, *conversion_data_train.csv*,  *conversion_data_test.csv* and *uber-raw-data-apr14.csv*
+- the dataset *Speed Dating Data.csv* and its documentation *Speed Dating Data Key.doc*
 
 ## Installing 
 
 Once you have the prerequisites, 
-You can run for : 
-- **Walmart** : the IPython Notebook *Walmart*
-- **Conversion Rate Challenge** : the IPython Notebook *conversion_rate_challenge*
-- **Uber** : the IPython Notebook *Uber*
+You can run the IPython Notebook *SpeedDating_final*
  
 ## Authors
 
