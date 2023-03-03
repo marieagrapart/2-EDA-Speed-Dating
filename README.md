@@ -9,7 +9,7 @@ It'a a student project with the following gloal :
 ## Prerequisites
 
 You will need : 
-- pip install requirement.txt 
+- pip install -r requirements.txt 
 - the dataset *Walmart_Store_sales.csv*, *conversion_data_train.csv*,  *conversion_data_test.csv* and *uber-raw-data-apr14.csv*
 
 ## Installing 
